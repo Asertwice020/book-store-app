@@ -1,5 +1,5 @@
-# build-full-stack-book-store-mern-app
-![full-stack-book-store-mern-project](/frontend/src/assets/github-cover.png)
+# build-full-stack-book-store-app
+![full-stack-book-store-project](/frontend/src/assets/github-cover.png)
 
 ## How to run this project:
 
@@ -11,11 +11,11 @@ Follow the below steps to run the project:
 ```
 >>> Stepup firebase app and configure the environment
 
-VITE_API_KEY="AIzaSyCXvDIC4MPrkaMdeg_O2iij88wLpfj3qBA"
-VITE_Auth_Domain="book-store-mern-app.firebaseapp.com"
-VITE_PROJECT_ID="book-store-mern-app"
-VITE_STORAGE_BUCKET="book-store-mern-app.appspot.com"
-VITE_MESSAGING_SENDERID= "205632822247"
+VITE_API_KEY="API_KEY_OF_FIREBASE"
+VITE_Auth_Domain="book-store-app.firebaseapp.com"
+VITE_PROJECT_ID="book-store-app"
+VITE_STORAGE_BUCKET="book-store-app.appspot.com"
+VITE_MESSAGING_SENDERID= "SENDER_ID"
 VITE_APPID="1:205632822247:web:b0db0ec66bf6de0bbb3b42"
 ```
 + Then run `` npm install `` commend to install node dependencies.
